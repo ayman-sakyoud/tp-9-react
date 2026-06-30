@@ -72,6 +72,18 @@ export const certifications: Certification[] = [
     status: "active",
   },
   {
+    title: "Certification Professionnelle — Développement Front-End moderne avec React",
+    issuer: "MLIAEdu",
+    issueDate: "2025-12",
+    credentialUrl: "https://mliaedu.toubkalit.com/attestations",
+    certificateFile: "/certifications/react-certif.pdf",
+    skills: ["React", "Hooks", "Composants", "State Management", "JSX", "Vite"],
+    tags: ["React", "Front-End"],
+    image: "https://mliaedu.toubkalit.com/favicon.ico",
+    imageAlt: "Logo MLIAEdu",
+    status: "active",
+  },
+  {
     title: "Certification Professionnelle — Développement JakartaEE & Spring",
     issuer: "MLIAEdu",
     issueDate: "2025-10",

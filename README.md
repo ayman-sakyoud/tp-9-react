@@ -8,27 +8,27 @@ Un portfolio moderne, responsive et performant développé avec **React**, **Vit
 
 ### Page d'accueil
 
-![Home](./screenshots/img-1.png)
+![Home](./img-1.png)
 
 ### À propos
 
-![About](./screenshots/img-2.png)
+![About](./img-2.png)
 
 ### Compétences
 
-![Skills](./screenshots/img-3.png)
+![Skills](./img-3.png)
 
 ### Projets
 
-![Projects](./screenshots/img-4.png)
+![Projects](./img-4.png)
 
 ### Expérience
 
-![Experience](./screenshots/img-5.png)
+![Experience](./img-5.png)
 
 ### Contact
 
-![Contact](./screenshots/img-6.png)
+![Contact](./img-6.png)
 
 ---
 
